@@ -6,6 +6,12 @@
 
 ---
 
+## 🧠 Philosophy
+
+Skaflo empowers developers by reducing boilerplate time and shifting focus to building real features. Whether you're starting a prototype or automating internal tooling, Skaflo gets you to code faster.
+
+---
+
 ## 🚀 Features
 
 ### ✅ Current
@@ -74,21 +80,3 @@ my-app/
 ├── .env
 └── README.md
 ```
-
----
-
-## 🧠 Philosophy
-
-Skaflo empowers developers by reducing boilerplate time and shifting focus to building real features. Whether you're starting a prototype or automating internal tooling, Skaflo gets you to code faster.
-
----
-
-## 🙌 Contributing
-
-Coming soon: `CONTRIBUTING.md`, plugin interface, and dynamic template registration.
-
----
-
-## 📜 License
-
-MIT License © 2025 Skaflo Contributors
