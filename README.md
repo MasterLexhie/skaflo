@@ -1,4 +1,4 @@
-# Skaflo 🛠️
+# Skaflo 🛠️ - In Progress
 
 **Skaflo** is a developer-first CLI tool that transforms natural language prompts into fully functional project scaffolds — complete with folder structures, boilerplate code, and configurations — so you can start building right away.
 
